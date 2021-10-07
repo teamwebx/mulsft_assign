@@ -1,0 +1,32 @@
+textarea{
+	width:220px;
+	height:110px;
+}
+
+.form-class{
+	border: 2px solid blue;
+	width:40%;
+	background-color: aqua;
+	padding:10px;
+	
+}
+input{
+	color:rgb(2, 0, 90);
+}
+body{
+	margin-left: 100px;
+	background-color: cornflowerblue;
+}
+.view-page{
+	border:2px solid blueviolet;
+	margin-left: 70px;
+	padding:10px;
+	background-color: blueviolet;
+	color:white;
+	text-decoration: none;
+}
+@media screen and (min-width: 1500px) {
+	.form-class{
+		width:20%;
+	}
+}
